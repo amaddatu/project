@@ -18,3 +18,6 @@ git commit -m "message"
 
 ## MOVES ALL COMMITS TO GITHUB
 git push
+
+## CREATES A NEW BRANCH IN REMOTE AND DOES A PUSH
+git push --set-upstream origin elie

@@ -21,3 +21,7 @@ git push
 
 ## CREATES A NEW BRANCH IN REMOTE AND DOES A PUSH
 git push --set-upstream origin elie
+
+## BRINGS IN CHANGES FROM MASTER BRANCH IN GITHUB
+git fetch origin
+git merge origin/master
